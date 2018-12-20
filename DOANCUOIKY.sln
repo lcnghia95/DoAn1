@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{035DB1E3-CDE1-4287-BD6B-A5D7001DC64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B61C59BE-7404-48D2-ADD1-5276577B3579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{5C623F80-9637-494C-B151-66FEE4156ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035DB1E3-CDE1-4287-BD6B-A5D7001DC64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035DB1E3-CDE1-4287-BD6B-A5D7001DC64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035DB1E3-CDE1-4287-BD6B-A5D7001DC64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035DB1E3-CDE1-4287-BD6B-A5D7001DC64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61C59BE-7404-48D2-ADD1-5276577B3579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61C59BE-7404-48D2-ADD1-5276577B3579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61C59BE-7404-48D2-ADD1-5276577B3579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61C59BE-7404-48D2-ADD1-5276577B3579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C623F80-9637-494C-B151-66FEE4156ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C623F80-9637-494C-B151-66FEE4156ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C623F80-9637-494C-B151-66FEE4156ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C623F80-9637-494C-B151-66FEE4156ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C382425-85E0-4B7C-91E7-38FA81FBBE2E}
+	EndGlobalSection
+EndGlobal
